@@ -1,13 +1,12 @@
 <img src="https://github.com/0x1x3x/0x1x3x/blob/main/gitbackground.png"/>
 
 <h1>Hi I'm 0x1x3x</h1>
-<p>Living in 🌊🌴 Mallorca, Spain</p>
 
 **`Web3 Developer (Frontend + Blockchain)`**
 
 <h2>👋🏼 About me</h2>
 
-<p>For many years I'm doing web development, digital marketing and graphic
+<p>My name is Eugene and currently I'm living in 🌊🌴 Mallorca, Spain. For many years I'm doing web development, digital marketing and graphic
 design by myself, so time is to complain about all my knowledge in one place.
 I’m working with html + css, sass and tailwind, js + typescript, react (react
 frameworks, vite), node.js and solidity smart-contracts development, also have
