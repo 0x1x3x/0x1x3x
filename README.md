@@ -1,4 +1,4 @@
-<img src="https://github.com/0x1x3x/0x1x3x/gitbackground.png"/>
+<img src="https://github.com/0x1x3x/0x1x3x/blob/main/gitbackground.png"/>
 
 <h1>Hi I'm 0x1x3x</h1>
 <p>Living in 🌊🌴 Mallorca, Spain</p>
