@@ -36,9 +36,6 @@ active lifestyle, did Berlin Marathon 🇩🇪 and 20+ half marathons.</p>
     src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png"
   />
   <img width="30px" style="padding-right:10px"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg"
-  />
-  <img width="30px" style="padding-right:10px"
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"
   />
   <img width="30px" style="padding-right:10px"
