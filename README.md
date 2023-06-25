@@ -6,7 +6,7 @@
 
 <h2>👋🏼 About me</h2>
 
-<p>My name is Eugene and currently I'm living in 🌊🌴 Mallorca, Spain. For many years I'm doing web development, digital marketing and graphic
+<p>My name is 13 and currently, I'm living in 🌊🌴 Mallorca, Spain. For many years I'm doing web development, digital marketing and graphic
 design by myself, so time is to complain about all my knowledge in one place.
 I’m working with html + css, sass and tailwind, js + typescript, react (react
 frameworks, vite), node.js and solidity smart-contracts development, also have
